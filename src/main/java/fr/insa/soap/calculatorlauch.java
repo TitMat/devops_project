@@ -5,7 +5,7 @@ import jakarta.xml.ws.Endpoint;
 
 public class calculatorlauch {
 	
-	public static String host="localhost";
+	public static String host="0.0.0.0";
 	public static short port=8089; 
 	
 	public void start() {
